@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test page",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#second-heading",
+    "href": "index.html#second-heading",
+    "title": "test page",
+    "section": "Second Heading",
+    "text": "Second Heading\nMore Foo\n\nThird Heading\nFoo again\n\nFinal Foo\nFoo more"
+  },
+  {
+    "objectID": "index.html#second-second-heading",
+    "href": "index.html#second-second-heading",
+    "title": "test page",
+    "section": "Second Second Heading",
+    "text": "Second Second Heading\nMore Foo\n\nSecond Third Heading\nFoo again\n\nSecond Final Foo\nFoo more"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
